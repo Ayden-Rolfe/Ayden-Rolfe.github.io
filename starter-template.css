@@ -2,4 +2,6 @@ body {
   padding-top: 0rem;
   padding-left: 0rem;
   padding-right: 0rem;
+  background-image: url("content/bg.png");
+  background-repeat: repeat;
 }
